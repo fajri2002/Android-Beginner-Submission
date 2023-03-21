@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Greatest Album App</string>
+    <string name="about_me">About Me</string>
+    <string name="name_about">Fajri Ahmad Nugraha</string>
+    <string name="email_about">fajri2002@gmail.com</string>
+    <string name="desc_about">Hello ! Im Fajri and im an undergraduate student!</string>
+    <string name="album_name">Nama Album</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="album_description">Deskripsi</string>
+
+    <string-array name="data_album_name">
+        <item>Van Halen - Van Halen</item>
+        <item>Black Sabbath - Paranoid</item>
+        <item>Pearl Jam - Ten</item>
+        <item>Jimi Hendrix - Are You Experienced</item>
+        <item>Bon Jovi - Slippery When Wet</item>
+        <item>Def Leppard - Hysteria</item>
+        <item>Aerosmith - Dream On</item>
+        <item>Guns N Roses - Apettite For Destruction</item>
+        <item>Led Zeppelin - Led Zeppelin I</item>
+        <item>Motley Crue - Dr Feelgod</item>
+    </string-array>
+
+    <string-array name="data_detail_album">
+        <item>Van Halen is the debut studio album by American rock band Van Halen.\nReleased on February 10, 1978, Van Halen was a major commercial success. \nThe album peaked at number 19 on the US Billboard 200 and has sold more than 10 million copies in the United States. \nVan Halen received diamond certification by the RIAA and was received well by the general public making it one the best-selling albums in the United States.</item>
+        <item>Paranoid is the second studio album by English heavy metal band Black Sabbath, \nreleased in September 1970 through Vertigo Records in England and Warner Bros. \nRecords in the US. The album contains several of the band\'s signature songs</item>
+        <item>Ten is the debut studio album by American rock band Pearl Jam, released on August 27, 1991, through Epic Records. \nFollowing the dissolution of their previous band Mother Love Bone in 1990, \nbassist Jeff Ament and guitarist Stone Gossard began rehearsing with new guitarist Mike McCready.</item>
+        <item>Are You Experienced is the debut studio album by the Jimi Hendrix Experience. \nReleased in 1967, the LP was an immediate critical and commercial success, and it is widely regarded as one of the greatest albums of all time. \nThe album features Jimi Hendrix innovative approach to songwriting and electric guitar playing.</item>
+        <item>Slippery When Wet is the third studio album by American rock band Bon Jovi. \nIt was released on August 18, 1986, by Mercury Records in North America and Vertigo Records internationally. ]nIt was produced by Bruce Fairbairn, with recording sessions between January and July 1986 at Little Mountain Sound Studios in Vancouver.</item>
+        <item>Hysteria is the fourth studio album by English rock band Def Leppard, released on 3 August 1987 through Mercury Records. It is Def Leppards best-selling album to date, selling over 20 million copies worldwide, including 12 million in the US, and spawning seven hit singles.</item>
+        <item>Aerosmith is the debut studio album by the American rock band Aerosmith, released on January 5, 1973, by Columbia Records. "Dream On", originally released as a single in 1973, became an American top ten hit when re-released on 27 December 1975.</item>
+        <item>Appetite for Destruction is the debut studio album by American hard rock band Guns N Roses, released by Geffen Records on July 21, 1987. It initially received little mainstream attention, and it was not until the following year that Appetite for Destruction became a commercial success.</item>
+        <item>Led Zeppelin, sometimes referred to as Led Zeppelin I, is the debut studio album by English rock band Led Zeppelin. It was released on 12 January 1969 in the United States and on 31 March in the United Kingdom by Atlantic Records.</item>
+        <item>Dr. Feelgood is the fifth studio album by American heavy metal band Motley Crue, released on August 28, 1989. Dr. Feelgood topped the Billboard 200 chart, making it the bands only album to claim this position. It was the first album Motley Crue recorded after their quest for sobriety and rehabilitation in 1989.</item>
+    </string-array>
+
+    <string-array name="data_album_release">
+        <item>February 10, 1978</item>
+        <item>September 18, 1970</item>
+        <item>August 27, 1991</item>
+        <item>May 12, 1967</item>
+        <item>August 18, 1986</item>
+        <item>August 3, 1987</item>
+        <item>January 5, 1973</item>
+        <item>July 21, 1987</item>
+        <item>January 12, 1969</item>
+        <item>September 1, 1989</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/vh_1</item>
+        <item>@drawable/bs_2</item>
+        <item>@drawable/ten_3</item>
+        <item>@drawable/hx_4</item>
+        <item>@drawable/bon_5</item>
+        <item>@drawable/def_6</item>
+        <item>@drawable/dream_7</item>
+        <item>@drawable/gnr_8</item>
+        <item>@drawable/lz_9</item>
+        <item>@drawable/motley_10</item>
+    </integer-array>
+
+
+
+</resources>
